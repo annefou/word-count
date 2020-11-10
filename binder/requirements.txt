@@ -6,7 +6,7 @@
 #
 numpy==1.18.5
 matplotlib==3.2.1
-snakemake-minimal==5.27.4
+snakemake==5.27.4
 
 # to check python code style
 pycodestyle
